@@ -6,22 +6,19 @@ Overview
 
 The DriverPass project aimed to create a comprehensive system catering to students preparing for their driver's test. DriverPass, our client, identified a market niche for a subscription-based platform. This platform not only furnished students with up-to-date study resources but also facilitated scheduling in-person driving and teaching sessions with instructors.
 
-Project Highlights
-------------------
+
 
 ### Successful Requirements Collection
 
 One of the standout achievements in the design document was the thorough collection of requirements during the planning phase. By keeping the system purposeful and elegantly simple, the design team ensured the delivery of a functional solution that is not only cost-effective but also primed for future enhancements.
 
-Areas for Revision
-------------------
+
 
 ### Tech Stack Specification
 
 If there were one part to revise in the design document, it would be the explicit specification of the technology stack for implementing the solution. Clarifying the technologies and frameworks chosen would enhance the document's completeness and provide a more comprehensive guide for the development team.
 
-User-Centric Design
--------------------
+
 
 ### Interpreting User Needs
 
@@ -31,8 +28,7 @@ Interpreting user needs played a pivotal role in the system design. Through mult
 
 Considering user needs is paramount in system design as it directly influences the system's functionality and business value. A user-centric design ensures that the end product aligns with the client's expectations and provides a positive and effective experience for the intended audience.
 
-Software Design Approach
-------------------------
+
 
 ### Design Philosophy
 
